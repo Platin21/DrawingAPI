@@ -1,4 +1,4 @@
--- (c) Armin Hamar 
+-- (c) Platin21
 -- 2016.12.7
 -- version: Beta
 --
